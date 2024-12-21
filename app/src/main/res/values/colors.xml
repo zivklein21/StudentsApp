@@ -1,0 +1,21 @@
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary_blue">#2196F3</color>
+    <color name="primary_pink">#E91E63</color>
+
+    <!-- Secondary Colors -->
+    <color name="secondary_blue">#BBDEFB</color>
+    <color name="secondary_pink">#F8BBD0</color>
+
+    <!-- Accent Colors -->
+    <color name="accent_blue">#0D47A1</color>
+    <color name="accent_pink">#880E4F</color>
+
+    <!-- Background Colors -->
+    <color name="background_light">#FFFFFF</color>
+    <color name="background_dark">#F5F5F5</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+</resources>
